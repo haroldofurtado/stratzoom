@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : #""
+  name             : "Lucas Silveira"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"" #A web developer and designer from Brazil."
   location         : "USA"
@@ -127,7 +127,7 @@ author:
       # url: "https://github.com/"
     # - label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
-    # - label: "Phone Number"
+    - label: "Phone Number"
       icon: "fas fa-fw fa-phone-square"
       url: "tel:+1(425)598-6941"
     - label: "WhatsApp"
