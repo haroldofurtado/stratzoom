@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "StratZoom - Business Consulting"
+title                    : "Strat Zoom - Business Consulting"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "PushIdeas"

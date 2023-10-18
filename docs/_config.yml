@@ -102,7 +102,7 @@ author:
   bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
   location         : "Buffalo, NY"
   links:
-    - label: "StratZoom"
+    - label: "Strat Zoom"
       icon: "fas fa-fw fa-link"
       url: "https://stratzoom.com"
     - label: "Twitter"
