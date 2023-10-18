@@ -2,7 +2,7 @@
 ---
 <h1>About Us</h1>
 ___
-Strat Zoom Business consulting works strategically with small to medium-sized companies providing management, economic-financial and regulatory guidance implementing an action plan to overcome issues and access new markets.
+Strat Zoom Business Consulting works strategically with small to medium-sized companies providing management, economic-financial and regulatory guidance implementing an action plan to overcome issues and access new markets.
 
 <h2>Mission</h2>
 Our mission is to empower businesses to accomplish sustainable growth, to obtain financial health and explore new markets.
