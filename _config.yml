@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "PushIdeas"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.stratzoom.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Lucas Silveira"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"" #A web developer and designer from Brazil."
+  bio              : "" #A web developer and designer from Brazil."
   location         : "USA"
   email            : "stratzoom@gmail.com"
   links:
@@ -127,7 +127,7 @@ author:
       # url: "https://github.com/"
     # - label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
-    # - label: "Phone Number"
+    - label: "Phone Number"
       icon: "fas fa-fw fa-phone-square"
       url: "tel:+1(425)598-6941"
     - label: "WhatsApp"
