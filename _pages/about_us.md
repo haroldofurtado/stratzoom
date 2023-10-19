@@ -5,7 +5,7 @@ ___
 Strat Zoom Business Consulting works strategically with small to medium-sized companies providing management, economic-financial and regulatory guidance implementing an action plan to overcome issues and access new markets.
 
 <h2>Mission</h2>
-Our mission is to empower businesses to accomplish sustainable growth, to obtain financial health and explore new markets.
+The mission of Strat Zoom is to assist clients make lasting, distinctive, and substantial improvements to their business’ performance, in addition to build a great environment that attracts, develops, and retains an exceptional professional team.
 
 <h2>Vision</h2>
 
